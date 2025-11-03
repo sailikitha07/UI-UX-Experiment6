@@ -79,7 +79,7 @@ Process/Action (Rectangle),
 Decision (Diamond),
 
 End (Oval)
-
+```
 [Start]
    ↓
 [Open App]
@@ -103,6 +103,7 @@ End (Oval)
 [Receive Confirmation + Reminder]
    ↓
 [End]
+```
 5. Information Architecture (IA)
 
 Example App: Hospital Appointment App
@@ -140,6 +141,7 @@ Edit profile → Profile & Settings
 Site Map Structure:
 
 Home
+```
 ├── Appointments
 │   ├── Book Appointment
 │   ├── Upcoming Appointments
@@ -161,6 +163,6 @@ Home
     ├── Edit Profile
     ├── Notification Preferences
     └── Logout
-
+```
 ### Result:
 To practice solution ideation, user story creation, scenario development, flow mapping, and information architecture design to improve user experience through structured UX design activities is done successfully.
